@@ -1,0 +1,68 @@
+{
+  "projects": [
+    {
+      "name": "projeto 1",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1500,
+      "services": [
+        {
+          "name": "contratar",
+          "cost": "500",
+          "description": "asdasdasdasd",
+          "id": "e9067764-ab13-4a6d-9e98-eb6d661b87c8"
+        },
+        {
+          "name": "asdasdasd",
+          "cost": "500",
+          "description": "aaasdasd",
+          "id": "368c69ca-9f9f-4d8a-b39a-19baf45e86e1"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "projeto 2",
+      "budget": "5000000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "projeto 3",
+      "budget": "1000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
