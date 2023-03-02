@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Costs-App/static/css/main.ea75fea9.css",
+    "main.js": "/Costs-App/static/js/main.73f2cc71.js",
+    "static/media/savings.svg": "/Costs-App/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "index.html": "/Costs-App/index.html",
+    "static/media/loading.svg": "/Costs-App/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
+    "main.ea75fea9.css.map": "/Costs-App/static/css/main.ea75fea9.css.map",
+    "main.73f2cc71.js.map": "/Costs-App/static/js/main.73f2cc71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea75fea9.css",
+    "static/js/main.73f2cc71.js"
+  ]
+}
