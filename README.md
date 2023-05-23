@@ -1,4 +1,4 @@
-# **COSTS**💰
+# **R_Costs**💰
 This project is a Single Page Application developed in React!
 
 ## How does it works?
